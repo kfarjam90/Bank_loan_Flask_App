@@ -1,2 +1,2 @@
-# 🏨 Hotel Booking Cancellation Prediction and Analysis
+# 🏨 Bank Loan Prediction and Analysi
 ![Hotel Booking Cancellation Prediction](image1.png)
